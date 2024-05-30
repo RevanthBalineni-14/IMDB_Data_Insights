@@ -1,2 +1,3 @@
-# IMDB_Data_Insights
-IMDB Database hosted using PostgreSQL and deployed using Flask, and frontend using React for interface.
+## IMDB Data Insights Application
+
+This project hosts an IMDB database using PostgreSQL, deployed with a Flask backend, and features a React-based frontend. It aims to provide a structured platform for managing and accessing comprehensive movie data, enabling users to filter titles based on specific requirements. This application ensures data consistency and integrity, offering personalized recommendations, detailed analysis, and insights into audience preferences. The project is beneficial for movie enthusiasts, critics, industry professionals, and streaming platforms, enhancing decision-making and user experience through effective data management and querying.
