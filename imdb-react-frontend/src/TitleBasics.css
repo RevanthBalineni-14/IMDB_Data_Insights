@@ -1,0 +1,86 @@
+/* TitleBasics.css */
+.title-basics-container {
+    background-color: #282c34; /* Match the page background */
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .title-basics-container input[type="text"],
+  .title-basics-container input[type="number"],
+  .title-basics-container input[type="checkbox"] {
+    margin: 10px 0;
+    padding: 8px;
+    border-radius: 4px;
+    border: none;
+    width: calc(100% - 20px);
+  }
+  
+  .title-basics-container label {
+    display: block;
+    margin: 10px 0 5px;
+  }
+  
+  .title-basics-container button {
+    background-color: #61dafb;
+    color: #282c34;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .title-basics-container button:hover {
+    background-color: #49a6e9;
+  }
+  
+
+  .title-basics-container {
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .title-basics-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .title-basics-form label {
+    margin: 10px;
+    width: 100%;
+  }
+  
+  .title-basics-form input[type="text"],
+  .title-basics-form input[type="number"] {
+    padding: 10px;
+    margin-top: 5px;
+    width: 90%;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .title-basics-form input[type="checkbox"] {
+    margin-left: 5px;
+  }
+  
+  .title-basics-form button {
+    background-color: #61dafb;
+    color: #282c34;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  .title-basics-form button:hover {
+    background-color: #49a6e9;
+  }
+  
